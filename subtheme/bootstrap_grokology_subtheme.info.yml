@@ -1,8 +1,8 @@
 name: Bootstrap Grokology Subtheme
 type: theme
 description: 'Basic structure for a Bootstrap Grokology SubTheme.'
-# version: VERSION
-# core: 8.x
+version: VERSION
+core: 8.x
 base theme: bootstrap_grokology
 
 libraries:

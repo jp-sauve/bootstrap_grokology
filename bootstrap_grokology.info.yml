@@ -1,8 +1,8 @@
 name: Bootstrap Grokology
 type: theme
 description: 'A flexible Booststrap 4 based theme, with many regions and a responsive, mobile-first layout.'
-# version: VERSION
-# core: 8.x
+version: VERSION
+core: 8.x
 base theme: false
 
 libraries:
@@ -42,4 +42,3 @@ regions:
   footer_third: 'Footer third'
   footer_fourth: 'Footer fourth'
   footer_fifth: 'Footer fifth'
-
