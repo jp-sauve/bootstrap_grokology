@@ -207,11 +207,12 @@ function bootstrap_grokology_form_system_theme_settings_alter(&$form, FormStateI
   $form['components']['navbar']['bootstrap_grokology_navbar_toggle'] = array(
     '#type' => 'select',
     '#title' => t('Navbar top toggle size'),
-    '#description' => t('Select size for navbar to collapse.'),
+    '#description' => t('Select size for navbar to be expanded.'),
     '#default_value' => theme_get_setting('bootstrap_grokology_navbar_toggle'),
     '#options' => array(
-      'navbar-toggleable-md' => t('Medium'),
-      'navbar-toggleable-sm' => t('Small'),
+      'navbar-expand-lg' => t('large'),
+      'navbar-expand-md' => t('Medium'),
+      'navbar-expand-sm' => t('Small'),
     ),
   );
   $form['components']['navbar']['bootstrap_grokology_navbar_container'] = array(

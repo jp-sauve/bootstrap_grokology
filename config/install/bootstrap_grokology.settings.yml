@@ -22,7 +22,7 @@ bootstrap_grokology_button_outline: 0
 # Navbar
 # --------------
 bootstrap_grokology_navbar_toggle: 1
-bootstrap_grokology_navbar_container: 'navbar-toggleable-md'
+bootstrap_grokology_navbar_container: 'navbar-expand-md'
 bootstrap_grokology_navbar_top_position: ''
 bootstrap_grokology_navbar_top_color: 0
 bootstrap_grokology_navbar_top_background: 'faded'
