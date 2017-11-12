@@ -7,7 +7,7 @@
 
   'use strict';
 
-  Drupal.behaviors.bootstrap_barrio = {
+  Drupal.behaviors.bootstrap_grokology = {
     attach: function (context, settings) {
 
 	$(window).scroll(function() {

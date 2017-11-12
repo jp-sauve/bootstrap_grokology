@@ -1,12 +1,12 @@
-name: Bootstrap Barrio Subtheme
+name: Bootstrap Grokology Subtheme
 type: theme
-description: 'Basic structure for a Bootstrap Barrio SubTheme.'
+description: 'Basic structure for a Bootstrap Grokology SubTheme.'
 # version: VERSION
 # core: 8.x
-base theme: bootstrap_barrio
+base theme: bootstrap_grokology
 
 libraries:
-  - bootstrap_barrio_subtheme/global-styling
+  - bootstrap_grokology_subtheme/global-styling
 
 regions:
   top_header: 'Top Header'
@@ -31,15 +31,3 @@ regions:
   footer_third: 'Footer third'
   footer_fourth: 'Footer fourth'
   footer_fifth: 'Footer fifth'
-
-# Information added by Drupal.org packaging script on 2015-11-29
-# version: '8.x-4.0-beta1'
-# core: '8.x'
-# project: 'bootstrap_barrio'
-# datestamp: 1448759945
-
-# Information added by Drupal.org packaging script on 2017-03-07
-version: '8.x-4.6'
-core: '8.x'
-project: 'bootstrap_barrio'
-datestamp: 1488908286

@@ -1,5 +1,5 @@
-# Schema for the configuration files of the Bootstrap Barrio theme.
+# Schema for the configuration files of the Bootstrap Grokology theme.
 
-bootstrap_barrio.settings:
+bootstrap_grokology.settings:
   type: theme_settings
-  label: 'Bootstrap Barrio settings'
+  label: 'Bootstrap Grokology settings'

@@ -1,7 +1,7 @@
 {#
 /**
  * @file
- * Bootstrap Barrio's Theme override to display primary and secondary local tasks.
+ * Bootstrap Grokology's Theme override to display primary and secondary local tasks.
  *
  * Available variables:
  * - primary: HTML list items representing primary tasks.
@@ -13,7 +13,7 @@
  * @see template_preprocess_menu_local_tasks()
  */
 #}
-{{ attach_library('bootstrap_barrio/tabs') }}
+{{ attach_library('bootstrap_grokology/tabs') }}
 {% if primary %}
   <h2 class="visually-hidden">{{ 'Primary tabs'|t }}</h2>
   <ul class="nav nav-tabs primary">{{ primary }}</ul>

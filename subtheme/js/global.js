@@ -7,7 +7,7 @@
 
   'use strict';
 
-  Drupal.behaviors.bootstrap_barrio_subtheme = {
+  Drupal.behaviors.bootstrap_grokology_subtheme = {
     attach: function (context, settings) {
 
     }

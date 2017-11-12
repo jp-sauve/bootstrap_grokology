@@ -1,22 +1,22 @@
-bootstrap_barrio.small:
+bootstrap_grokology.small:
   label: small
   mediaQuery: 'all and (min-width: 34em) and (max-width: 47em)'
   weight: 0
   multipliers:
     - 1x
-bootstrap_barrio.medium:
+bootstrap_grokology.medium:
   label: medium
   mediaQuery: 'all and (min-width: 48em) and (max-width: 61em)'
   weight: 1
   multipliers:
     - 1x
-bootstrap_barrio.large:
+bootstrap_grokology.large:
   label: large
   mediaQuery: 'all and (min-width: 62em) and (max-width: 74em)'
   weight: 2
   multipliers:
     - 1x
-bootstrap_barrio.extra:
+bootstrap_grokology.extra:
   label: extra
   mediaQuery: 'all and (min-width: 75em)'
   weight: 3

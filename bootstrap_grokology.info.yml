@@ -1,18 +1,18 @@
-name: Bootstrap Barrio
+name: Bootstrap Grokology
 type: theme
-description: 'A flexible Booststrap based theme, with many regions and a responsive, mobile-first layout.'
+description: 'A flexible Booststrap 4 based theme, with many regions and a responsive, mobile-first layout.'
 # version: VERSION
 # core: 8.x
 base theme: false
 
 libraries:
-  - bootstrap_barrio/global-styling
+  - bootstrap_grokology/global-styling
 
 libraries-extend:
   core/drupal.dropbutton:
-    - bootstrap_barrio/dropbutton
+    - bootstrap_grokology/dropbutton
   file/drupal.file:
-    - bootstrap_barrio/file
+    - bootstrap_grokology/file
 
 ckeditor_stylesheets:
   - css/base/elements.css
@@ -43,8 +43,3 @@ regions:
   footer_fourth: 'Footer fourth'
   footer_fifth: 'Footer fifth'
 
-# Information added by Drupal.org packaging script on 2017-03-07
-version: '8.x-4.6'
-core: '8.x'
-project: 'bootstrap_barrio'
-datestamp: 1488908286

@@ -91,7 +91,7 @@ maintenance_page:
       css/maintenance-page.css: {}
   dependencies:
     - system/maintenance
-    - bootstrap_barrio/global-styling
+    - bootstrap_grokology/global-styling
 
 node:
   version: VERSION
@@ -269,5 +269,5 @@ mdb:
   dependencies:
     - core/jquery
   dependencies:
-    - bootstrap_barrio/material_design_icons
+    - bootstrap_grokology/material_design_icons
 

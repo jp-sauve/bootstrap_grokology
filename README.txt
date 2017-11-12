@@ -15,5 +15,5 @@ and customization using theme parameters.
 
 Installation
 
-Unpack and upload Bootstrap Theme on /themes folder.
+Unpack and upload Bootstrap Theme to your /themes folder.
 Install Bootstrap Library module to load the libraries.
